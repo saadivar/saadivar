@@ -1,11 +1,11 @@
 ### Hi there 👋
-[![sel-biyy's 42 stats](https://badge.mediaplus.ma/binary/sel-biyy)](https://github.com/oakoudad/badge42)
+<div align="center">[![sel-biyy's 42 stats](https://badge.mediaplus.ma/binary/sel-biyy)](https://github.com/oakoudad/badge42)</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ivarrrrrrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b.ahbibe" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/>
